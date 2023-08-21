@@ -1,7 +1,9 @@
 {
   "projects": {
-    "default": "face12-6fdc2",
-    "hosting": "face12-6fdc2"
+    "default": "test-4489e",
+    "hosting": "face12-6fdc2",
+    "d": "face12-6fdc2",
+    "development": "test-4489e"
   },
   "targets": {},
   "etags": {}
